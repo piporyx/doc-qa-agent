@@ -30,23 +30,38 @@ Features
 
 ### Clone the repo
 
-- git clone https://github.com/ucheorjins/doc-qa-agent.git
+- git clone:
+
+```text
+https://github.com/ucheorjins/doc-qa-agent.git
+```
 
 - cd doc-qa-agent
 
 ### Create and activate virtual environment
 
-- python3 -m venv .venv
+- ```bash
+  python3 -m venv .venv
+  ```
 
-- source .venv/bin/activate # macOS/Linux
+- source:
+
+````bash
+.venv/bin/activate
+,,, # macOS/Linux
 
 ### Install dependencies
 
-- pip install -r requirements.txt
+- ```bash
+pip install -r requirements.txt
+````
 
 NB:
 
-- Install Ollama separately at https://ollama.ai
+- Install Ollama separately at ```text
+  https://ollama.ai
+
+````
 
 - Put your OpenAI API key in a .env file.
 
@@ -56,29 +71,45 @@ NB:
 
 Create a .env file:
 
+```text
 - OPENAI_API_KEY=your_key_here
 
 - LLM_PROVIDER= "openai" or "ollama"
 
 - OLLAMA_HOST=http://localhost:11434
+````
 
 ---
 
 # Running the App
 
-- cd src
+- ```bash
+  cd src
+  ```
 
-- python main.py
+````
 
-- Gradio will start and print a local URL:
+- ```bash
+python main.py
+````
 
-- Running on http://127.0.0.1:7860/
+- ```bash
+  Gradio will start and print a local URL:
+  ```
+
+````
+
+- Running on ```text
+http://127.0.0.1:7860/
+````
 
 ---
 
 # Running Tests
 
+```text
 pytest tests
+```
 
 ---
 
