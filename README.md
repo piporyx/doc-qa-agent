@@ -26,21 +26,21 @@ Features
 
 ---
 
-### Installation
+# Installation
 
-# Clone the repo
+### Clone the repo
 
 - git clone https://github.com/ucheorjins/doc-qa-agent.git
 
 - cd doc-qa-agent
 
-# Create and activate virtual environment
+### Create and activate virtual environment
 
 - python3 -m venv .venv
 
 - source .venv/bin/activate # macOS/Linux
 
-# Install dependencies
+### Install dependencies
 
 - pip install -r requirements.txt
 
@@ -52,7 +52,7 @@ NB:
 
 ---
 
-#### Environment Variables
+### Environment Variables
 
 Create a .env file:
 
@@ -64,7 +64,7 @@ Create a .env file:
 
 ---
 
-##### Running the App
+# Running the App
 
 - cd src
 
@@ -76,13 +76,13 @@ Create a .env file:
 
 ---
 
-###### Running Tests
+# Running Tests
 
 pytest tests
 
 ---
 
-###### Future Improvements
+# Future Improvements
 
 - Add user file upload for QA process
 
@@ -94,6 +94,6 @@ pytest tests
 
 ---
 
-###### License
+# License
 
 MIT License. Free to use and modify.
