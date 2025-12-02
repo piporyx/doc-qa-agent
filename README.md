@@ -36,7 +36,11 @@ Features
 https://github.com/ucheorjins/doc-qa-agent.git
 ```
 
-- cd doc-qa-agent
+- Enter project folder:
+
+```bash
+cd doc-qa-agent
+```
 
 ### Create and activate virtual environment
 
