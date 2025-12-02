@@ -48,7 +48,7 @@ https://github.com/ucheorjins/doc-qa-agent.git
 
 ````bash
 .venv/bin/activate
-,,, # macOS/Linux
+``` (MacOS/Linux)
 
 ### Install dependencies
 
@@ -91,15 +91,10 @@ Create a .env file:
 
 - ```bash
 python main.py
-````
+```
 
-- ```bash
-  Gradio will start and print a local URL:
-  ```
-
-````
-
-- Running on ```text
+-Gradio will start and print a local URL: Running on
+```text
 http://127.0.0.1:7860/
 ````
 
